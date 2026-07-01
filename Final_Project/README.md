@@ -110,8 +110,8 @@ Upload Document (PDF/TXT)
 ## Project Structure
 
 ```
-├── Study_Assistant_RAG.ipynb   # Main notebook: full pipeline (upload -> answer)
-└── README.md                   # Project documentation (this file)
+├── AI_Study_Assistance_Project_Suraj_Bhan_Rawat.ipynb   # Main notebook: full pipeline (upload -> answer)
+└── README.md                                            # Project documentation (this file)
 ```
 
 The notebook is organized into clear steps, each with its own markdown explanation:
